@@ -11,7 +11,8 @@
 
 -运行依赖
 	
-	中转服务器运行需要安装Protobuf以及rapidjson，其中Protobuf安装在服务器上面并配置好运行环境变量,rapidjosn放在tars 源码的 /Tars/cpp/thirdparty 目录下即可
+	1.Protobuf,其中Protobuf安装在服务器上面并配置好运行环境变量,
+	2.rapidjson,rapidjosn放在tars 源码的 /Tars/cpp/thirdparty 目录下即可
 
 -编译步骤
 	
