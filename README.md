@@ -11,7 +11,7 @@
 
 -运行依赖
 	
-	1.Protobuf,其中Protobuf安装在服务器上面并配置好运行环境变量,
+	1.Protobuf,Protobuf安装在服务器上面并配置好运行环境变量,
 	2.rapidjson,rapidjosn放在tars 源码的 /Tars/cpp/thirdparty 目录下即可
 
 -编译步骤
